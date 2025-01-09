@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\04_02_#define\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC7618-621C-4862-A1DD-D745EDEDF4E0}|04_02_#define\\04_02_#define.vcxproj|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\04_02_#define\\04_02_#define\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79CC7618-621C-4862-A1DD-D745EDEDF4E0}|04_02_#define\\04_02_#define.vcxproj|solutionrelative:04_02_#define\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\04_02_#define\\04_02_#define\\main.c",
+              "RelativeDocumentMoniker": "04_02_#define\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\04_02_#define\\04_02_#define\\main.c",
+              "RelativeToolTip": "04_02_#define\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-09T13:44:26.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

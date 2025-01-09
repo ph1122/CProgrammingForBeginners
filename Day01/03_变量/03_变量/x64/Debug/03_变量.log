@@ -1,0 +1,4 @@
+﻿  mian.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day01\03_变量\03_变量\mian.c(21,6): warning C4101: “f”: 未引用的局部变量
+E:\Project\C\c_base\CProgrammingForBeginners\Day01\03_变量\03_变量\mian.c(21,16): warning C4101: “h”: 未引用的局部变量
+  03_变量.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day01\03_变量\x64\Debug\03_变量.exe
