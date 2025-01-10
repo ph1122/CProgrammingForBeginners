@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day02\07_转义字符\07_转义字符\main.c(13,9): warning C4129: “D：: 不可识别的字符转义序列
+E:\Project\C\c_base\CProgrammingForBeginners\Day02\07_转义字符\07_转义字符\main.c(13,9): warning C4129: “w：: 不可识别的字符转义序列
+  07_转义字符.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day02\07_转义字符\x64\Debug\07_转义字符.exe
