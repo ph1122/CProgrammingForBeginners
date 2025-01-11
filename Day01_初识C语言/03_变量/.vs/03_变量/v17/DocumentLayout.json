@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\03_\u53D8\u91CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71344F53-6B23-49C6-A5C1-AD46D33BD216}|03_\u53D8\u91CF\\03_\u53D8\u91CF.vcxproj|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\03_\u53D8\u91CF\\03_\u53D8\u91CF\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71344F53-6B23-49C6-A5C1-AD46D33BD216}|03_\u53D8\u91CF\\03_\u53D8\u91CF.vcxproj|solutionrelative:03_\u53D8\u91CF\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mian.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\03_\u53D8\u91CF\\03_\u53D8\u91CF\\mian.c",
+              "RelativeDocumentMoniker": "03_\u53D8\u91CF\\mian.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day01\\03_\u53D8\u91CF\\03_\u53D8\u91CF\\mian.c",
+              "RelativeToolTip": "03_\u53D8\u91CF\\mian.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-09T13:23:40.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
