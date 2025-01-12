@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day04_位运算符\07_05_左移运算符\07_05_左移运算符\main.c(29,24): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+  07_05_左移运算符.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day04_位运算符\07_05_左移运算符\x64\Debug\07_05_左移运算符.exe

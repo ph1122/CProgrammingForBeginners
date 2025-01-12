@@ -1,0 +1,7 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day04_位运算符\00_位运算符概览\00_位运算符概览\main.c(28,9): warning C4476: "printf": 格式说明符中的类型字段字符“b”未知
+E:\Project\C\c_base\CProgrammingForBeginners\Day04_位运算符\00_位运算符概览\00_位运算符概览\main.c(28,17): warning C4474: printf: 格式字符串中传递的参数太多
+      E:\Project\C\c_base\CProgrammingForBeginners\Day04_位运算符\00_位运算符概览\00_位运算符概览\main.c(28,17):
+      占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  
+  00_位运算符概览.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day04_位运算符\00_位运算符概览\x64\Debug\00_位运算符概览.exe
