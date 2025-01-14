@@ -1,3 +1,0 @@
-﻿  main.c
-E:\Project\C\c_base\CProgrammingForBeginners\Day02\09_04_字符串的输入\09_04_字符串的输入\main.c(16,5): warning C4013: “gets”未定义；假设外部返回 int
-  09_04_字符串的输入.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day02\09_04_字符串的输入\x64\Debug\09_04_字符串的输入.exe

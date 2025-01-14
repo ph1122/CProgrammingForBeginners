@@ -1,3 +1,0 @@
-﻿  main.c
-E:\Project\C\c_base\CProgrammingForBeginners\Day02\04_unsigned\04_unsigned\main.c(17,21): warning C4305: “初始化”: 从“int”到“unsigned short”截断
-  04_unsigned.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day02\04_unsigned\x64\Debug\04_unsigned.exe
