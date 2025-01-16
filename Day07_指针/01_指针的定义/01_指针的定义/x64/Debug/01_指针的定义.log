@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day06_数组\01_指针的定义\01_指针的定义\main.c(8,7): warning C4101: “pa”: 未引用的局部变量
+  01_指针的定义.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day06_数组\01_指针的定义\x64\Debug\01_指针的定义.exe

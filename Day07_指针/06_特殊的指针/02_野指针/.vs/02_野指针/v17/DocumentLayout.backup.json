@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB213C3-1440-4C32-90A4-B515D2AA0B0A}|02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488.vcxproj|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EB213C3-1440-4C32-90A4-B515D2AA0B0A}|02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488.vcxproj|solutionrelative:02_\u91CE\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "02_\u91CE\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c*",
+              "RelativeToolTip": "02_\u91CE\u6307\u9488\\main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-15T13:02:34.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

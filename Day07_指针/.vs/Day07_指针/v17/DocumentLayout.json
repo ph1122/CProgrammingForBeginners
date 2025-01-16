@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\09_\u6307\u9488\u548C\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:09_\u6307\u9488\u548C\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\03_\u6570\u7EC4\u6307\u9488\\03_\u6570\u7EC4\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:08_\u6307\u9488\u548C\u6570\u7EC4\\03_\u6570\u7EC4\u6307\u9488\\03_\u6570\u7EC4\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:08_\u6307\u9488\u548C\u6570\u7EC4\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:08_\u6307\u9488\u548C\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:07_\u6307\u9488\u548C\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\02_\u5E38\u91CF\u6307\u9488\\02_\u5E38\u91CF\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:07_\u6307\u9488\u548C\u5E38\u91CF\\02_\u5E38\u91CF\u6307\u9488\\02_\u5E38\u91CF\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:07_\u6307\u9488\u548C\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:06_\u7279\u6B8A\u7684\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:06_\u7279\u6B8A\u7684\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:06_\u7279\u6B8A\u7684\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\01_\u7A7A\u6307\u9488\\01_\u7A7A\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:06_\u7279\u6B8A\u7684\u6307\u9488\\01_\u7A7A\u6307\u9488\\01_\u7A7A\u6307\u9488\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\09_\u6307\u9488\u548C\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\main.c",
+              "RelativeDocumentMoniker": "09_\u6307\u9488\u548C\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\09_\u6307\u9488\u548C\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\main.c",
+              "RelativeToolTip": "09_\u6307\u9488\u548C\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\01_\u6307\u9488\u51FD\u6570\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T07:07:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\03_\u6570\u7EC4\u6307\u9488\\03_\u6570\u7EC4\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "08_\u6307\u9488\u548C\u6570\u7EC4\\03_\u6570\u7EC4\u6307\u9488\\03_\u6570\u7EC4\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\03_\u6570\u7EC4\u6307\u9488\\03_\u6570\u7EC4\u6307\u9488\\main.c",
+              "RelativeToolTip": "08_\u6307\u9488\u548C\u6570\u7EC4\\03_\u6570\u7EC4\u6307\u9488\\03_\u6570\u7EC4\u6307\u9488\\main.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T07:01:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\main.c",
+              "RelativeDocumentMoniker": "08_\u6307\u9488\u548C\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\main.c",
+              "RelativeToolTip": "08_\u6307\u9488\u548C\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\02_\u6307\u9488\u6570\u7EC4\\main.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:58:02.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\main.c",
+              "RelativeDocumentMoniker": "08_\u6307\u9488\u548C\u6570\u7EC4\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\08_\u6307\u9488\u548C\u6570\u7EC4\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\main.c",
+              "RelativeToolTip": "08_\u6307\u9488\u548C\u6570\u7EC4\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\01_\u6307\u9488\u548C\u6570\u7EC4\u7684\u5173\u7CFB\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:45:26.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\main.c",
+              "RelativeDocumentMoniker": "07_\u6307\u9488\u548C\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\main.c",
+              "RelativeToolTip": "07_\u6307\u9488\u548C\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\03_\u5E38\u91CF\u6307\u9488\u5E38\u91CF\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:45:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\02_\u5E38\u91CF\u6307\u9488\\02_\u5E38\u91CF\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "07_\u6307\u9488\u548C\u5E38\u91CF\\02_\u5E38\u91CF\u6307\u9488\\02_\u5E38\u91CF\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\02_\u5E38\u91CF\u6307\u9488\\02_\u5E38\u91CF\u6307\u9488\\main.c",
+              "RelativeToolTip": "07_\u6307\u9488\u548C\u5E38\u91CF\\02_\u5E38\u91CF\u6307\u9488\\02_\u5E38\u91CF\u6307\u9488\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:44:57.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\main.c",
+              "RelativeDocumentMoniker": "07_\u6307\u9488\u548C\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\07_\u6307\u9488\u548C\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\main.c",
+              "RelativeToolTip": "07_\u6307\u9488\u548C\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\01_\u6307\u9488\u5E38\u91CF\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:44:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "06_\u7279\u6B8A\u7684\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\main.c",
+              "RelativeToolTip": "06_\u7279\u6B8A\u7684\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\05_\u4E8C\u7EA7\u6307\u9488\u548C\u591A\u7EA7\u6307\u9488\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:44:17.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "06_\u7279\u6B8A\u7684\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\main.c",
+              "RelativeToolTip": "06_\u7279\u6B8A\u7684\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\04_void\u7C7B\u578B\u6307\u9488\\main.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:44:02.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "06_\u7279\u6B8A\u7684\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\main.c",
+              "RelativeToolTip": "06_\u7279\u6B8A\u7684\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\03_\u60AC\u7A7A\u6307\u9488\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:42:18.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c",
+              "RelativeToolTip": "06_\u7279\u6B8A\u7684\u6307\u9488\\02_\u91CE\u6307\u9488\\02_\u91CE\u6307\u9488\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:42:05.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\01_\u7A7A\u6307\u9488\\01_\u7A7A\u6307\u9488\\main.c",
+              "RelativeDocumentMoniker": "06_\u7279\u6B8A\u7684\u6307\u9488\\01_\u7A7A\u6307\u9488\\01_\u7A7A\u6307\u9488\\main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day07_\u6307\u9488\\06_\u7279\u6B8A\u7684\u6307\u9488\\01_\u7A7A\u6307\u9488\\01_\u7A7A\u6307\u9488\\main.c",
+              "RelativeToolTip": "06_\u7279\u6B8A\u7684\u6307\u9488\\01_\u7A7A\u6307\u9488\\01_\u7A7A\u6307\u9488\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T06:41:36.989Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
