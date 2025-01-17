@@ -1,0 +1,6 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day08_字符串和结构体\04_字符串的常用函数\01_strlen\01_strlen\main.c(6,29): warning C4305: “初始化”: 从“int”到“char”截断
+E:\Project\C\c_base\CProgrammingForBeginners\Day08_字符串和结构体\04_字符串的常用函数\01_strlen\01_strlen\main.c(10,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\c_base\CProgrammingForBeginners\Day08_字符串和结构体\04_字符串的常用函数\01_strlen\01_strlen\main.c(11,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Project\C\c_base\CProgrammingForBeginners\Day08_字符串和结构体\04_字符串的常用函数\01_strlen\01_strlen\main.c(12,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  01_strlen.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day08_字符串和结构体\04_字符串的常用函数\01_strlen\x64\Debug\01_strlen.exe

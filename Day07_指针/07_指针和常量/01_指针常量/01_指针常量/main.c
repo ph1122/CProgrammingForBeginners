@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNIGNS
 #include<stdio.h>
 
-// 指针常量
+// 指针常量是指针本身是常量，指针的地址不能改变。
 int main() {
 	int a = 10;
 	int b = 2;
