@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day09_结构体\05_结构体的定义和使用\05_结构体的定义和使用\main.c(21,12): warning C4305: “=”: 从“int”到“char”截断
+  05_结构体的定义和使用.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day09_结构体\05_结构体的定义和使用\x64\Debug\05_结构体的定义和使用.exe
