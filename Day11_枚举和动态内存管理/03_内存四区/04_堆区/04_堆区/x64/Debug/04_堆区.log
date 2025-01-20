@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day11_枚举和动态内存管理\03_内存四区\04_堆区\04_堆区\main.c(18,20): warning C4047: “函数”:“int *”与“int (*)[3]”的间接级别不同
+E:\Project\C\c_base\CProgrammingForBeginners\Day11_枚举和动态内存管理\03_内存四区\04_堆区\04_堆区\main.c(18,20): warning C4024: “getarray”: 形参和实参 1 的类型不同
+  04_堆区.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day11_枚举和动态内存管理\03_内存四区\04_堆区\x64\Debug\04_堆区.exe

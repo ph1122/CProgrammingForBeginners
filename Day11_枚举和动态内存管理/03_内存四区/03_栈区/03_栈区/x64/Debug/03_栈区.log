@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day11_枚举和动态内存管理\03_内存四区\03_栈区\03_栈区\main.c(12,1): warning C4172: 返回局部变量的地址或临时 : c
+  03_栈区.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day11_枚举和动态内存管理\03_内存四区\03_栈区\x64\Debug\03_栈区.exe
