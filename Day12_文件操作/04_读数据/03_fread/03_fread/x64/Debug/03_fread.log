@@ -1,0 +1,3 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day12_文件操作\04_读数据\03_fread\main.c(18,13): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  03_fread.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day12_文件操作\04_读数据\03_fread\x64\Debug\03_fread.exe
