@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day18_\u4E32\\01_\u4E32\u5E93\u51FD\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D8373A-0140-4446-A73D-16FEB6B54B56}|01_\u4E32\u5E93\u51FD\u6570.vcxproj|E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day18_\u4E32\\01_\u4E32\u5E93\u51FD\u6570\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6D8373A-0140-4446-A73D-16FEB6B54B56}|01_\u4E32\u5E93\u51FD\u6570.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day18_\u4E32\\01_\u4E32\u5E93\u51FD\u6570\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "E:\\Project\\C\\c_base\\CProgrammingForBeginners\\Day18_\u4E32\\01_\u4E32\u5E93\u51FD\u6570\\main.c*",
+              "RelativeToolTip": "main.c*",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvx4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-10T12:18:19.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

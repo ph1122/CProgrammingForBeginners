@@ -1,0 +1,10 @@
+﻿  main.c
+E:\Project\C\c_base\CProgrammingForBeginners\Day18_串\01_串库函数\main.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\Project\C\c_base\CProgrammingForBeginners\Day18_串\01_串库函数\main.c(13,9):
+      请考虑在格式字符串中使用“%zd”
+  
+E:\Project\C\c_base\CProgrammingForBeginners\Day18_串\01_串库函数\main.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\Project\C\c_base\CProgrammingForBeginners\Day18_串\01_串库函数\main.c(14,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  01_串库函数.vcxproj -> E:\Project\C\c_base\CProgrammingForBeginners\Day18_串\01_串库函数\x64\Debug\01_串库函数.exe
